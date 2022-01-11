@@ -5,6 +5,7 @@
 	height: 500px;
 	justify-content: center; /* Vai alinhar de acordo com a linha*/
 	align-items: center; /* Vai alinhar de acordo com a DIV vai */
+	flex-wrap: wrap;
 }
 
 .container div {
@@ -12,7 +13,7 @@
 	background-color: red;
 	margin: 10px;
 	padding: 10px;
-	height: 50%;
+	height: 10%;
 }
 
 /* 
@@ -28,4 +29,5 @@
 	background-color: red;
 	margin: 10px;
 	padding: 10px;
-} */
+} 
+*/
